@@ -1,0 +1,6 @@
+{
+  "introduction": { "title": "Introduction", "order": 1 },
+  "chapters": { "title": "Chapters", "order": 2 },
+  "features": { "title": "Features Overview", "order": 3 },
+  "faq": { "title": "FAQ", "order": 4 }
+}
