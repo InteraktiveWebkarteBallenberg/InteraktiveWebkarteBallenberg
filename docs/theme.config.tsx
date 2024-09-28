@@ -10,6 +10,9 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'Nextra Docs Template',
   },
+  search: {
+    placeholder: 'Suche...',
+  },
 }
 
 export default config
