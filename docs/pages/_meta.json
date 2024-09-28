@@ -1,8 +1,7 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "testfolder": "Testfolder",
-  "documentation": "Documentation",
+  "index": "Einführung",
+  "konzept": "Konzept",
+  "bericht": "Bericht",
   "about": {
     "title": "About",
     "type": "page"

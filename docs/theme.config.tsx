@@ -4,7 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>Interaktive Webkarte Ballenberg</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/InteraktiveWebkarteBallenberg/InteraktiveWebkarteBallenberg',
   },
   chat: {
     link: 'https://discord.com',
