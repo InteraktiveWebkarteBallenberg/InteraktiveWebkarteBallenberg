@@ -25,6 +25,16 @@ const config: DocsThemeConfig = {
     search: {
         placeholder: 'Suche...',
     },
+    sidebar: {
+        defaultMenuCollapseLevel: 1,
+    },
+    editLink: {
+        component: null
+    },
+    feedback: {
+        content: 'Feedback geben',
+        useLink: () => 'https://github.com/InteraktiveWebkarteBallenberg/InteraktiveWebkarteBallenberg/issues'
+    }
 }
 
 export default config
