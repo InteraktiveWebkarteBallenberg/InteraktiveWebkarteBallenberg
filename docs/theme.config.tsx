@@ -13,7 +13,6 @@ const config: DocsThemeConfig = {
   search: {
     placeholder: 'Suche...',
   },
-  editLink: undefined,
 };
 
 export default config
