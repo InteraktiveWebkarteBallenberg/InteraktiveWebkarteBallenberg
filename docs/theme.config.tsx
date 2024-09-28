@@ -6,13 +6,14 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/InteraktiveWebkarteBallenberg/InteraktiveWebkarteBallenberg.git',
   },
-   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
     text: 'Nextra Docs Template',
   },
   search: {
     placeholder: 'Suche...',
   },
-}
+  editLink: undefined,
+};
 
 export default config
