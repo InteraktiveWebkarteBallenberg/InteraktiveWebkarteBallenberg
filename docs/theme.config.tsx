@@ -13,8 +13,6 @@ const config: DocsThemeConfig = {
   search: {
     placeholder: 'Suche...',
   },
-  feedbackLink: false, // Deaktiviert den Feedback-Link
-  editLink: undefined,  // Deaktiviert den Edit-Link
 };
 
 export default config
