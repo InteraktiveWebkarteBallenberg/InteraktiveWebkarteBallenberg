@@ -34,7 +34,7 @@ const config: DocsThemeConfig = {
     feedback: {
         content: 'Feedback geben',
         useLink: () => 'https://github.com/InteraktiveWebkarteBallenberg/InteraktiveWebkarteBallenberg/issues'
-    }
+    },
 }
 
 export default config
